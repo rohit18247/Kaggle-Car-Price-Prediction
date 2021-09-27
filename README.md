@@ -7,3 +7,5 @@ EDA, and machine learning was done using python. Extensive use of scikit library
 further to evaluate the accuracy of the model. 
 
 Data used has been uploaded. 
+
+Currently in the process of deploying this via Heroku.  
