@@ -9,3 +9,6 @@ further to evaluate the accuracy of the model.
 Data used has been uploaded. 
 
 Currently in the process of deploying this via Heroku.  
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
